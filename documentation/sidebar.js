@@ -19,11 +19,14 @@ const sidebars = {
     // But you can create a sidebar manually
     /*
     tutorialSidebar: [
+      'template.md',
+      'another.md',
       {
         type: 'category',
-        label: 'Tutorial',
-        items: ['hello'],
+        label: 'Category to group pages',
+        items: ['tutorial_page_1', 'tutorial_page_2'],
       },
+
     ],
      */
 };
