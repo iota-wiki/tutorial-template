@@ -4,7 +4,7 @@ This README will walk you through setting up a tutorial for the Wiki. You can re
 
 # Documentation
 
-Add your tutorial documentation to the `template.md` file. Try to follow the provided layout by listening the tools (with version) you used, explainingy how to setup and run the application. If you need more then one page you need to add the files to `sidebar.js`.
+Add your tutorial documentation to the `template.md` file. Try to follow the provided layout by listening the tools (with version) you used, explaining how to setup and run the application. If you need more then one page you need to add the files to `sidebar.js`.
 
 # Gitpod
 
